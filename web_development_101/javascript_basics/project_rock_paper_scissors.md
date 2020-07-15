@@ -41,7 +41,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
-- [greatshekhs solution](https://github.com/greatshekhs/rock-paper-scissor-console) - [View in Browser](https://greatshekhs.github.io/rock-paper-scissor-console/)
 - [Felipe Caldeira's solution](https://github.com/Felipe-Caldeira/TOP-Rock-Paper-Scissors) - [View in Browser](https://felipe-caldeira.github.io/TOP-Rock-Paper-Scissors/)
 - [sielock's Solution'](https://github.com/sielock/rock-paper-scissors) - [View in Browser](https://sielock.github.io/rock-paper-scissors/)
 - [rajdeepdev10's solution](https://github.com/rajdeepdev10/rock-paper-scissors)
@@ -56,7 +55,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Sadagat Asgarov's Solution](https://github.com/sadagatasgarov/Rock-Paper-Scissors.git)
 - [Bernardo Vargas's Solution](https://github.com/bernardoVargasF/rock-paper-scissors)
 - [Eco-Developer's Solution](https://github.com/Eco-developer/rock-paper-scissors) - [View in Browser](https://eco-developer.github.io/rock-paper-scissors/)
-- [AGL's Solution](https://github.com/agl9/rockpaperscissors/)
+- [AGL's Solution](https://github.com/agl9/rockpaperscissors/) - [View in Browser](https://agl9.github.io/rockpaperscissors/)
 - [devLevi's Solution](https://github.com/devLevi/rock-paper-scissors) - [View in Browser](https://devlevi.github.io/rock-paper-scissors/)
 - [Gunslinger's Solution](https://github.com/gunslingerOP/Rock-Paper-Scissors) - [View in Browser](https://gunslingerop.github.io/Rock-Paper-Scissors/)
 - [marslavish's Solution](https://github.com/marslavish/rock_paper_scissors) - [View in Browser](https://marslavish.github.io/rock_paper_scissors/)
@@ -1799,6 +1798,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Wei-Ting Yap's Solution](https://github.com/weiting109/the-odin-proj-projects/blob/master/rock-paper-scissors/rock-paper-scissors.html)
 - [Alexander Glez's Solution](https://github.com/Covicale/RockPaperScissors) - [View in Browser](https://covicale.github.io/RockPaperScissors/)
 - [robertompfm's Solution](https://github.com/robertompfm/rock-paper-scissors)
-- [Denzel's Solution](https://github.com/denzUp/rock-paper-scissors-game) - [View in Browser](https://denzup.github.io/rock-paper-scissors-game/)
 </details>
 
